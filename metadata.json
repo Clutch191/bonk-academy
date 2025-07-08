@@ -2,6 +2,6 @@
   "name": "Bonk Academy",
   "symbol": "BONKA",
   "description": "Bonk Academy is a community-first token project on Solana dedicated to memes, learning, and fun.",
-  "image": "https://github.com/Clutch191/bonk-academy/blob/main/bonk.png",
-  "external_url": "https://clutch191.github.io/bonk-academy/metadata.json"
+  "image": "https://raw.githubusercontent.com/Clutch191/bonk-academy/main/bonk.png",
+  "external_url": "https://clutch191.github.io/bonk-academy/"
 }
